@@ -1,6 +1,4 @@
-[![Python application](https://github.com/KateWenqiZhu/ci-course/actions/workflows/unit-test.yml/badge.svg)](https://github.com/KateWenqiZhu/ci-course/actions/workflows/unit-test.yml)\\
-
-
+[![Python application](https://github.com/KateWenqiZhu/ci-course/actions/workflows/unit-test.yml/badge.svg)](https://github.com/KateWenqiZhu/ci-course/actions/workflows/unit-test.yml)
 
 # OxRSE Continuous Integration course
 
