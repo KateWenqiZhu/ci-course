@@ -1,3 +1,7 @@
+[![Python application](https://github.com/KateWenqiZhu/ci-course/actions/workflows/unit-test.yml/badge.svg)](https://github.com/KateWenqiZhu/ci-course/actions/workflows/unit-test.yml)\\
+
+
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
